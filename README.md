@@ -7,7 +7,7 @@ Install dan Konfigurasi Prometheus
 Install dan Konfigurasi Grafana
 Install dan Konfigurasi SNMP Exporter
 
-I. Install dan Konfigurasi Prometheus
+**I. Install dan Konfigurasi Prometheus**
 
 **Langkah 1:** 
 
